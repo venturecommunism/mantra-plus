@@ -39,6 +39,6 @@
   },
   "dependencies": {
     "babel-runtime": "6.x.x",
-    "react-simple-di": "^1.2.0"
+    "react-simple-di": ""git://github.com/venturecommunism/react-simple-di"
   }
 }
